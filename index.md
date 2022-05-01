@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Woonhak Kang
+Senior MTS at Oracle/OCI.
 
-You can use the [editor on GitHub](https://github.com/woonhak/woonhak.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Since 2009, one of my hobby is reading opensource database code for fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've learning opensource database internals by reading/modifying source code of PostgreSQL, MySQL, and SQLite.
 
-### Markdown
+Unfortunately, I did not contribute my work many reason so far.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Recently, I've been asked to give a talk about kind of `database internals for dummies`
+for helping colleagues who has no background knowledge.
 
-```markdown
-Syntax highlighted code block
+Fortunately, I did similar talk since 2011 for students at SKKU, but everytime I spent too much time to find the materials on the cloud storage.
 
-# Header 1
-## Header 2
-### Header 3
+So I thought that it could be a good chance to publish some of old slides and re-haul according to the current versions. 
+For contributing the community and myself.
 
-- Bulleted
-- List
+### MySQL Materials
+[MySQL 5.6 start server and initailization](https://github.com/woonhak/woonhak.github.io/blob/main/mysql_docs/2015-04-28%20mysql_impl_init.pdf)
 
-1. Numbered
-2. List
+[MySQL 5.6 initailization(cont.)](https://github.com/woonhak/woonhak.github.io/blob/main/mysql_docs/2015-05-11%20mysql%20impl%20-%20InnoDB%20Init_part%202.pdf)
 
-**Bold** and _Italic_ and `Code` text
+[MySQL 5.6 Buffer Mgmt. and File system ](https://github.com/woonhak/woonhak.github.io/blob/main/mysql_docs/2015-05-26%20mysql%20impl%20-%20Buffer%20Manager%20and%20File%20system%20part.2.pdf)
 
-[Link](url) and ![Image](src)
-```
+## TODO
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### MySQL walk-through
+### PostgreSQL
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woonhak/woonhak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### SQLite
