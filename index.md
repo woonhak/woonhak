@@ -5,8 +5,6 @@ Since 2009, one of my hobby is reading opensource database code for fun.
 
 I've learning opensource database internals by reading/modifying source code of PostgreSQL, MySQL, and SQLite.
 
-Unfortunately, I did not contribute my work many reason so far.
-
 Recently, I've been asked to give a talk about kind of `database internals for dummies`
 for helping colleagues who has no background knowledge.
 
